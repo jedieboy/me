@@ -97,4 +97,6 @@ export const PROJECTS: Project[] = [
   { num: '02', name: 'Sweet Amore', url: 'https://sweet-amore.netlify.app/', delay: 120 },
   { num: '03', name: 'Supahkid', url: 'https://supahkid.netlify.app/', delay: 240 },
   { num: '04', name: 'ICT Creations', url: 'https://ict-creation.netlify.app/', delay: 360 },
+  { num: '05', name: 'Tap Street', url: 'https://tapstreet.netlify.app/', delay: 480 },
+  { num: '06', name: "Surreal's Cadeau", url: 'https://surreals-cadeau.netlify.app/', delay: 600 },
 ];
